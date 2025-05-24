@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\ngaleano_tredasoluti\Documents\GitHub\PRE-08-mlflow-tracking-local-NatalyGaleano\my_mlruns/677167288525922540/7c001fd5ec964fc0afde3b5e1542d292/artifacts
+end_time: 1748100671050
+entry_point_name: ''
+experiment_id: '677167288525922540'
+lifecycle_stage: active
+run_id: 7c001fd5ec964fc0afde3b5e1542d292
+run_name: knn_e8cd2c25
+run_uuid: 7c001fd5ec964fc0afde3b5e1542d292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100670882
+status: 3
+tags: []
+user_id: ngaleano_tredasoluti

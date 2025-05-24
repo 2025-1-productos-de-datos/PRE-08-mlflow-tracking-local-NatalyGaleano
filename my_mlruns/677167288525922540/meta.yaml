@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\ngaleano_tredasoluti\Documents\GitHub\PRE-08-mlflow-tracking-local-NatalyGaleano\my_mlruns/677167288525922540
+creation_time: 1748100643160
+experiment_id: '677167288525922540'
+last_update_time: 1748100643160
+lifecycle_stage: active
+name: wine_quality_experiment
